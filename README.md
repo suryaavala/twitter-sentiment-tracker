@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-v3.8.3-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
+[Reddit Explanation](https://www.reddit.com/r/MachineLearning/comments/i0vuxl/p_tracking_sentiment_on_twitter_in_realtime/?utm_source=share&utm_medium=web2x)
+
 This repository contains the source code and resources for building a web app that tracks the sentiment on twitter towards a set of pre-specified accounts. Essentially, it is a leaner version of [polituits.com](https://polituits.com).
 
 The end-product looks as follows:
